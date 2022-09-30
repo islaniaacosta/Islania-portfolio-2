@@ -1,0 +1,90 @@
+h1{
+    color:rgb(217, 95, 115);
+    font-family: Papyrus;
+    text-align: center;
+    border-style: dashed;
+}
+h2{
+    text-align: center;
+    color:rgb(53, 178, 183);
+}
+h3{
+    text-align: center;
+    color:rgb(81, 153, 201);
+}
+a{
+    color:rgb(126, 72, 126);
+    font-family: arial;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color:cornflowerblue;
+    min-height: 100px;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(117, 117, 198)
+}
+a:hover{
+    color: black;
+}
+p{
+    text-align: center;
+    font-family:Arial;
+    font-weight: bold;
+    margin: 20px 10px;
+}
+h5{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(233, 127, 88)
+}
+form{
+    text-align: center;
+    color:rgb(189, 90, 125)
+}
+
+}
+nav{
+    text-align: center;
+    font-weight: bold;
+    z-index: 10;
+    position: fixed;
+}
+.about{
+    border-style: solid;
+    font-weight: bold;
+    padding: 6px 11px 4px 9px;
+    background-color: rgb(178, 208, 235);
+    border-radius: 15px;
+}
+img{
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.work{
+    border-style: solid;
+    font-weight: bold;
+    padding: 6px 11px 4px 9px;
+    border-radius: 15px;
+}
+.contact{
+    border-style: solid;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 6px 11px 4px 9px;
+    background-color: rgba(244, 244, 83, 0.865);
+}
+.mywork{
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    border-radius: 15px;
+    width: 170px;
+    height: 65px;
+}
